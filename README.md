@@ -17,7 +17,7 @@ python manage.py migrate
 
 python manage.py createsuperuser
 
-🦄That's all! Enjoy!🦄
+🦄 That's all! Enjoy! 🦄
 
 💡 Future 💡
 
