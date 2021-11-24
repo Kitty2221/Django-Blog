@@ -1,6 +1,7 @@
 🍒 Installation 🍒
 
 Installing and running this blog is very simple. 
+
 1️⃣Clone this repo, and then simply run:
 
 docker-compose up --build
